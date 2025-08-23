@@ -1,0 +1,11 @@
+Employee_ID,Name,Age,Department,Salary,Joining_Date,Experience_Years,City
+1001,Amit,25.0,HR,50000.0,2015-03-01,8.0,Mumbai
+1002,Priya,28.0,Finance,60000.0,2016-07-15,7.0,Pune
+1003,Rohit,35.0,IT,inf,2018-01-20,5.0,Delhi
+1004,Sneha,,IT,75000.0,2019-05-30,4.0,Mumbai
+1005,Vikas,45.0,Finance,80000.0,2014-11-11,12.0,Delhi
+1006,Anjali,29.0,HR,62000.0,2017-08-25,6.0,Pune
+1007,Raj,32.0,IT,70000.0,2020-02-14,,Mumbai
+1008,Kiran,41.0,Finance,85000.0,2013-09-10,15.0,Delhi
+1009,Pooja,,HR,55000.0,2018-12-05,5.0,Pune
+1010,Manish,38.0,IT,,2021-06-18,2.0,Mumbai
